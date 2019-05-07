@@ -1,6 +1,7 @@
 # Para executar:
 
 npm install na pasta /app/carna-store
+
 npm start
 
 # Quer trabalhar com front-end em nosso time?
